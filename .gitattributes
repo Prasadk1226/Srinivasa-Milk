@@ -1,3 +1,5 @@
+src/assets/images/*.jpg filter=lfs diff=lfs merge=lfs -text
+src/assets/images/products/*.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
