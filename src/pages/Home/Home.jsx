@@ -146,7 +146,7 @@ const Home = () => {
             {/* ------------------------------------------------------------- */}
 
             {/* 1. Category Navigation (The Swiggy Icon Row) */}
-            <section ref={categoryRef} className="category-section relative py-8 md:py-12 bg-white shadow-inner">
+            <section ref={categoryRef} className="category-section relative py-8 md:py-12 bg-transparent shadow-inner">
                 <div className="max-w-6xl mx-auto px-4 md:px-6">
                     <h2 className="text-2xl font-bold text-gray-800 mb-4">Quick Shop</h2>
                     <div className="no-scrollbar overflow-y-hidden">
