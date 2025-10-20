@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import MilkFlowDivider from '../UI/MilkFlowDivider'; // Assuming this component exists
 
-// --- EXPLORE LINK IMPROVEMENTS (Staggered Text + Underline REMOVED) ---
 
 // Framer Motion variants for letter staggering
 const letterContainer = {
